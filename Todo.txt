@@ -1,0 +1,46 @@
+sa106401
+Wednesday - May 23
+------------------------------------------------------------------------------|
+> Need to implement the rest of the code for ex17.c
+x Recursion lecture c++ by marty stepp
+* Solve the hackerearth multidimensional array problem
+* Possibly work on the direct2d api stuff tomorrow, not sure
+x Upvote and Downvote for my forum using Django
+
+Saturday - May 26
+------------------------------------------------------------------------------|
+x Implement the rest of the code for ex17.c
+x Make portfolio site
+x Work on the E-Z math book
+
+Today
+Sunday - May 25
+------------------------------------------------------------------------------|
+x Ruby on rails toy_app
+x Ruby on rails hello_world
+x E-Z Math book
+x Learn C the hard way (spend majority of the time here por favor)
+* Make the computer-repair website
+x Internetting is hard
+x Linear Algebra Chapter 1
+* Add new shit once finished
+ 
+Friday - June 1
+------------------------------------------------------------------------------|
+* Asteriods game love2d? (extends to 2+ weeks)
+* Try to setup OpenGL on the MAC, pretty sure it will work without xcode, 
+	using cmake on the terminal
+* Chapter 5 Rails Tutorial
+
+Sunday - June 2
+------------------------------------------------------------------------------|
+* Get the open-gl working on windows using Cherno project
+* Allen webster "Intro to learning c"
+ 
+Monday - June 18
+------------------------------------------------------------------------------|
+* Become a Rails Developer
+* Lynda.com ruby essential training (become really good at ruby before rails)
+* C the hard way pointer to functions
+* Go to work at 3 o'clock
+ 
